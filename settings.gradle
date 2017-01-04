@@ -1,0 +1,1 @@
+include ':app', ':mypicture', ':transparentbartest', ':barragetest', ':Myview'
